@@ -1,0 +1,4 @@
+Station,"Date and Time","Air Temp",RH,Dewpoint,"Solar Rad",Precip,Wind,"Wind Dir","Gust Speed","Gust Dir","5cm Soil Temp","15cm Soil Temp"
+id,"date time","deg F","%","deg F",W/m2,in,mph,degrees,mph,degrees,"deg F","deg F"
+*,*,-50,0,-30,0,0,0,0,0,-1,-30,-30
+*,*,120,1.1,120,1500,10,50,360,200,360,120,120
